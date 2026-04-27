@@ -1,7 +1,7 @@
 """
 Financial Report Generation System - Streamlit App
-Author: Gopesh Aggarwal
-Roll No: 2301730158
+Author: Ujjwal Tripathi
+Roll No: 2301730143
 
 Description:
 Interactive web interface for uploading financial data, visualizing trends,
@@ -51,7 +51,7 @@ st.markdown("""
 <div class="header">
     <h1>📊 Financial Report Generation System</h1>
     <p>AI-assisted financial analysis and reporting</p>
-    <p><b>Gopesh Aggarwal</b> | Roll No: 2301730158</p>
+    <p><b>Ujjwal Tripathi</b> | Roll No: 2301730143</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -195,7 +195,7 @@ with tab3:
 st.markdown("---")
 st.markdown(
     "<div style='text-align:center; color:gray; font-size:12px;'>"
-    "Financial Report Generation System | Gopesh Aggarwal (2301730158) | "
+    "Financial Report Generation System | Ujjwal Tripathi (2301730143) | "
     "Powered by Hugging Face & Transformers"
     "</div>",
     unsafe_allow_html=True
