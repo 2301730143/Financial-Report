@@ -74,8 +74,8 @@ Python • Pandas • NumPy • Hugging Face Transformers • Streamlit
 
 ## Author
 
-**Name:** Gopesh Aggarwal
-**Roll Number:** 2301730158
+**Name:** Ujjwal Tripathi
+**Roll Number:** 2301730143
 **Project:** Financial Report Generation System
 **Date:** 2024-2025
 
